@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Accel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_file_upload">FileUpload</string>
+    <string name="app1name">Accelerometer</string>
+    <string name="app2name">GPS</string>
+    <string name="axis1">X-Axis</string>
+    <string name="axis2">Y-Axis</string>
+    <string name="axis3">Z-Axis</string>
+    <string name="wait">Updating..</string>
+    <string name="button_name">Upload Data</string>
+    <string name="serverip">Enter Server IP</string>
+    <string name="port">Enter port no.</string>
+
+</resources>
